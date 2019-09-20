@@ -1,4 +1,4 @@
-ตfrom flask import Flask, jsonify, request
+from flask import Flask, jsonify, request
 import os
 import json
 import requests
